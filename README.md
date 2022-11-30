@@ -8,6 +8,7 @@ Average playtime: 10 hours
 Genre: windows
 
 Specs: Widnwosws
+```
 
 
 
@@ -29,6 +30,5 @@ Specs: Widnwosws
 
 
 
-
-
+```
 this game is legally a joke
